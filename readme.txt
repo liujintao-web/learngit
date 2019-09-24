@@ -4,4 +4,3 @@ sad
 very sad
 happy
 okok
-love
